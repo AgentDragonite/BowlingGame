@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 18 18:08:08 2023
 
-@author: vashs
-"""
 import re
 #this is used to create a global array for the functions to modify/read score
 #First dim in array stores score and turkey if scored
